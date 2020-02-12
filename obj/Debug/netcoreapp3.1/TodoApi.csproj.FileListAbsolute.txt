@@ -23,3 +23,8 @@ D:\poc\dotnetcore\TodoApi\obj\Debug\netcoreapp3.1\TodoApi.RazorTargetAssemblyInf
 D:\poc\dotnetcore\TodoApi\obj\Debug\netcoreapp3.1\TodoApi.csproj.CopyComplete
 D:\poc\dotnetcore\TodoApi\obj\Debug\netcoreapp3.1\TodoApi.dll
 D:\poc\dotnetcore\TodoApi\obj\Debug\netcoreapp3.1\TodoApi.pdb
+D:\poc\dotnetcore\TodoApi\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+D:\poc\dotnetcore\TodoApi\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+D:\poc\dotnetcore\TodoApi\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\poc\dotnetcore\TodoApi\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\poc\dotnetcore\TodoApi\obj\Debug\netcoreapp3.1\TodoApi.MvcApplicationPartsAssemblyInfo.cs
